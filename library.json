@@ -1,7 +1,7 @@
 {
   "name": "Somo2",
   "keywords": "somo 2, mp3 player, sound",
-  "description": "Arduino library to interact with the Somo 2 mp3 player",
+  "description": "Arduino library to interact with the Somo-II mp3 player",
   "repository":
   {
     "type": "git",
