@@ -1,6 +1,6 @@
 # SOMO-II library
 
-[SOMO-II](https://www.4dsystems.com.au/product/SOMO_II/) is a cheap mp3 player that can be controller over a serial port.
+[SOMO-II](https://www.4dsystems.com.au/product/SOMO_II/) is a cheap mp3 player that can be controlled over a serial port.
 
 This library implements the serial control in order to use it along with an Arduino/Teensy/Any Arduino capable board.
 
